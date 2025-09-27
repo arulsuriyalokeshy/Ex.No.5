@@ -22,7 +22,7 @@ Different prompting patterns—such as zero-shot, few-shot, chain-of-thought, ro
 
 ### Methodology
 
-S### cenarios Selected:
+Scenarios Selected:
 
 Mathematical reasoning (e.g., word problems).
 
